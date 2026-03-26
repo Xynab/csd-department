@@ -1,5 +1,5 @@
 <!--                   INFO        -->
-[![GitHub license](https://img.shields.io/github/license/lordsinstitute/csd-department.svg)](https://github.com/lordsinstitute/csd-department/blob/main/LICENSE)
+[![GitHub license](https://img.shields.io/github/license/lordsinstitute/csd-department)](https://github.com/lordsinstitute/csd-department/blob/main/LICENSE)
 [![GitHub contributors](https://img.shields.io/github/contributors/lordsinstitute/csd-department.svg)](https://github.com/lordsinstitute/csd-department/graphs/contributors)
 [![GitHub pull-requests](https://img.shields.io/github/issues-pr/lordsinstitute/csd-department.svg)](https://github.com/lordsinstitute/csd-department/pulls)
 <!-- [![GitHub issues](https://img.shields.io/github/issues/abdulvasay-234/Workshop-GitHub.svg)](https://GitHub.com/abdulvasay-234/Workshop-GitHub/issues/) -->
