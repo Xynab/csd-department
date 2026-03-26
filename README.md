@@ -4,7 +4,7 @@
 [![GitHub pull-requests](https://img.shields.io/github/issues-pr/lordsinstitute/csd-department.svg)](https://github.com/lordsinstitute/csd-department/pulls)
 <!-- [![GitHub issues](https://img.shields.io/github/issues/abdulvasay-234/Workshop-GitHub.svg)](https://GitHub.com/abdulvasay-234/Workshop-GitHub/issues/) -->
 
-# CSM Department – Lords Institute of Engineering & Technology
+# CSD Department – Lords Institute of Engineering & Technology
 
 <p align="center">
   <b>Department of Computer Science-Data Science</b><br/>
